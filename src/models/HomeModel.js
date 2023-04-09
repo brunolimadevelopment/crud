@@ -1,3 +1,7 @@
+/**
+ * OS MODELS TRATA OS DADOS
+ */
+
 const mongoose = require('mongoose');
 
 const HomeSchema = new mongoose.Schema({
